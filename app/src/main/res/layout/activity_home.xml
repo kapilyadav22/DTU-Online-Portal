@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        tools:ignore="UselessParent">
+
+
+        <Button
+            android:id="@+id/logoutbutton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/select_app"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="50dp"
+            android:layout_marginBottom="20dp"
+            android:background="@color/purple_200"
+            android:gravity="center"
+            android:text="Log Out" />
+
+        <TextView
+            android:id="@+id/select_app"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginStart="5dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginEnd="5dp"
+            android:layout_marginBottom="5dp"
+            android:gravity="center"
+            android:text="Select any Option"
+            android:textColor="@color/black" />
+
+        <androidx.core.widget.NestedScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/select_app">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="40dp"
+                android:layout_marginEnd="50dp"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:weightSum="2">
+
+
+                    <androidx.cardview.widget.CardView
+                        android:id="@+id/Uploadnotice"
+                        android:layout_width="fill_parent"
+                        android:layout_height="120.0dip"
+                        android:layout_weight="1.0"
+                        android:clickable="true"
+                        android:foreground="?android:selectableItemBackground"
+                        app:cardCornerRadius="10.0dip"
+                        app:cardElevation="3.0dip"
+                        app:cardUseCompatPadding="true"
+                        android:focusable="true">
+
+
+                        <ImageView
+                            android:layout_width="60dp"
+                            android:layout_height="60dp"
+                            android:layout_gravity="top|center"
+                            android:layout_marginTop="10dp"
+                            android:background="@drawable/iconcircle"
+                            android:padding="10dp"
+                            android:src="@drawable/ic_notice" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="20dp"
+                            android:layout_gravity="center"
+                            android:layout_marginTop="30dp"
+                            android:layout_weight="1"
+                            android:text="Upload Notice"
+                            android:textAlignment="center"
+                            android:textColor="@color/black"
+                            android:textSize="14sp" />
+
+                    </androidx.cardview.widget.CardView>
+
+                    <androidx.cardview.widget.CardView
+                        android:id="@+id/Uploadimage"
+                        android:layout_width="fill_parent"
+                        android:layout_height="120.0dip"
+
+                        android:layout_weight="1.0"
+                        android:clickable="true"
+                        android:foreground="?android:selectableItemBackground"
+                        app:cardCornerRadius="10.0dip"
+                        app:cardElevation="3.0dip"
+                        app:cardUseCompatPadding="true"
+                        android:focusable="true">
+
+
+                        <ImageView
+                            android:layout_width="60dp"
+                            android:layout_height="60dp"
+                            android:layout_marginTop="10dp"
+                            android:layout_gravity="top|center"
+                            android:background="@drawable/iconcircle2"
+                            android:padding="12dp"
+                            android:src="@drawable/ic_baseline_image_24" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="20dp"
+                            android:layout_gravity="center"
+                            android:layout_marginTop="30dp"
+                            android:layout_weight="1"
+                            android:text="Upload Gallery"
+                            android:textAlignment="center"
+                            android:textColor="@color/black"
+                            android:textSize="13sp" />
+
+                    </androidx.cardview.widget.CardView>
+
+
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:weightSum="2">
+
+
+                    <androidx.cardview.widget.CardView
+                        android:id="@+id/UploadEbook"
+                        android:layout_width="fill_parent"
+                        android:layout_height="120.0dip"
+
+                        android:layout_weight="1.0"
+                        android:clickable="true"
+                        android:foreground="?android:selectableItemBackground"
+                        app:cardCornerRadius="10.0dip"
+                        app:cardElevation="3.0dip"
+
+                        app:cardUseCompatPadding="true"
+                        android:focusable="true">
+
+
+                        <ImageView
+                            android:layout_width="60dp"
+                            android:layout_height="60dp"
+                            android:layout_marginTop="10dp"
+                            android:layout_gravity="top|center"
+                            android:background="@drawable/iconcircle3"
+                            android:padding="12dp"
+                            android:src="@drawable/ic_upload" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="20dp"
+                            android:layout_gravity="center"
+                            android:layout_marginTop="30dp"
+                            android:layout_weight="1"
+                            android:text="Upload E-Book"
+                            android:textAlignment="center"
+                            android:textColor="@color/black"
+                            android:textSize="13sp" />
+
+                    </androidx.cardview.widget.CardView>
+
+
+                    <androidx.cardview.widget.CardView
+                        android:id="@+id/Updatefaculty"
+                        android:layout_width="fill_parent"
+                        android:layout_height="120.0dip"
+                        android:layout_weight="1.0"
+                        android:clickable="true"
+                        android:foreground="?android:selectableItemBackground"
+                        app:cardCornerRadius="10.0dip"
+                        app:cardElevation="3.0dip"
+                        app:cardUseCompatPadding="true"
+                        android:focusable="true">
+
+
+                        <ImageView
+                            android:layout_width="60dp"
+                            android:layout_height="60dp"
+                            android:layout_marginTop="10dp"
+                            android:layout_gravity="top|center"
+                            android:background="@drawable/iconcircle4"
+                            android:padding="12dp"
+                            android:src="@drawable/ic_group" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="20dp"
+                            android:layout_gravity="center"
+                            android:layout_marginTop="30dp"
+                            android:layout_weight="1"
+                            android:text="Update Faculty"
+                            android:textAlignment="center"
+                            android:textColor="@color/black"
+                            android:textSize="13sp" />
+
+                    </androidx.cardview.widget.CardView>
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:weightSum="2">
+
+
+                    <androidx.cardview.widget.CardView
+                        android:id="@+id/Deletenotice"
+                        android:layout_width="fill_parent"
+                        android:layout_height="120.0dip"
+                        android:layout_weight="1.0"
+                        android:clickable="true"
+                        android:foreground="?android:selectableItemBackground"
+                        app:cardCornerRadius="10.0dip"
+                        app:cardElevation="3.0dip"
+                        app:cardUseCompatPadding="true"
+                        android:focusable="true">
+
+
+                        <ImageView
+                            android:layout_width="60dp"
+                            android:layout_height="60dp"
+                            android:layout_gravity="top|center"
+                            android:layout_marginTop="10dp"
+                            android:background="@drawable/iconcircle1"
+                            android:padding="10dp"
+                            android:src="@drawable/ic_delete" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="20dp"
+                            android:layout_gravity="center"
+                            android:layout_marginTop="30dp"
+                            android:layout_weight="1"
+                            android:text="Delete Notice"
+                            android:textAlignment="center"
+                            android:textColor="@color/black"
+                            android:textSize="14sp" />
+
+                    </androidx.cardview.widget.CardView>
+
+                    <androidx.cardview.widget.CardView
+                        android:id="@+id/Addmoreadmin"
+                        android:layout_width="fill_parent"
+                        android:layout_height="120.0dip"
+
+                        android:layout_weight="1.0"
+                        android:clickable="true"
+                        android:foreground="?android:selectableItemBackground"
+                        app:cardCornerRadius="10.0dip"
+                        app:cardElevation="3.0dip"
+                        app:cardUseCompatPadding="true"
+                        android:focusable="true">
+
+
+
+                        <ImageView
+                            android:layout_width="60dp"
+                            android:layout_height="60dp"
+                            android:layout_marginTop="10dp"
+                            android:layout_gravity="top|center"
+                            android:background="@drawable/iconcircle5"
+                            android:padding="12dp"
+                            android:src="@drawable/ic_admin" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="20dp"
+                            android:layout_gravity="center"
+                            android:layout_marginTop="30dp"
+                            android:layout_weight="1"
+                            android:text="Add more Admin"
+                            android:textAlignment="center"
+                            android:textColor="@color/black"
+                            android:textSize="13sp" />
+
+                    </androidx.cardview.widget.CardView>
+
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:weightSum="2">
+
+
+                    <androidx.cardview.widget.CardView
+                        android:id="@+id/Deleteusers"
+                        android:layout_width="fill_parent"
+                        android:layout_height="120.0dip"
+
+                        android:layout_weight="1.0"
+                        android:clickable="true"
+                        android:foreground="?android:selectableItemBackground"
+                        app:cardCornerRadius="10.0dip"
+                        app:cardElevation="3.0dip"
+                        app:cardUseCompatPadding="true"
+                        android:focusable="true">
+
+
+
+                        <ImageView
+                            android:layout_width="60dp"
+                            android:layout_height="60dp"
+                            android:layout_marginTop="10dp"
+                            android:layout_gravity="top|center"
+                            android:background="@drawable/blue_btn_background"
+                            android:padding="12dp"
+                            android:src="@drawable/ic_deleteuser" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="20dp"
+                            android:layout_gravity="center"
+                            android:layout_marginTop="30dp"
+                            android:layout_weight="1"
+                            android:text="Delete Users"
+                            android:textAlignment="center"
+                            android:textColor="@color/black"
+                            android:textSize="13sp" />
+
+                    </androidx.cardview.widget.CardView>
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+        </androidx.core.widget.NestedScrollView>
+
+
+    </RelativeLayout>
+
+</LinearLayout>

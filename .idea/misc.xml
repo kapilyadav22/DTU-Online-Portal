@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/singh/AndroidStudioProjects/DTUADMIN/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2115" />
+        <entry key="..\:/Users/singh/AndroidStudioProjects/DTUADMIN/app/src/main/res/drawable-xxxhdpi/background_top.xml" value="0.139" />
+        <entry key="..\:/Users/singh/AndroidStudioProjects/DTUADMIN/app/src/main/res/drawable-xxxhdpi/blue_btn_background.xml" value="0.15" />
+        <entry key="..\:/Users/singh/AndroidStudioProjects/DTUADMIN/app/src/main/res/drawable-xxxhdpi/grey_edt_background.xml" value="0.2115" />
+        <entry key="..\:/Users/singh/AndroidStudioProjects/DTUADMIN/app/src/main/res/drawable-xxxhdpi/ic_launcher_background.xml" value="0.139" />
+        <entry key="..\:/Users/singh/AndroidStudioProjects/DTUADMIN/app/src/main/res/drawable-xxxhdpi/iconcircle.xml" value="0.139" />
+        <entry key="..\:/Users/singh/AndroidStudioProjects/DTUADMIN/app/src/main/res/drawable-xxxhdpi/iconcircle1.xml" value="0.139" />
+        <entry key="..\:/Users/singh/AndroidStudioProjects/DTUADMIN/app/src/main/res/drawable-xxxhdpi/iconcircle2.xml" value="0.139" />
+        <entry key="..\:/Users/singh/AndroidStudioProjects/DTUADMIN/app/src/main/res/drawable-xxxhdpi/iconcircle3.xml" value="0.139" />
+        <entry key="..\:/Users/singh/AndroidStudioProjects/DTUADMIN/app/src/main/res/drawable-xxxhdpi/iconcircle4.xml" value="0.139" />
+        <entry key="..\:/Users/singh/AndroidStudioProjects/DTUADMIN/app/src/main/res/drawable-xxxhdpi/iconcircle5.xml" value="0.139" />
+        <entry key="..\:/Users/singh/AndroidStudioProjects/DTUADMIN/app/src/main/res/drawable/color2.xml" value="0.1375" />
+        <entry key="..\:/Users/singh/AndroidStudioProjects/DTUADMIN/app/src/main/res/drawable/color3.xml" value="0.1375" />
+        <entry key="..\:/Users/singh/AndroidStudioProjects/DTUADMIN/app/src/main/res/drawable/ic_dropdown.xml" value="0.1325" />
+        <entry key="..\:/Users/singh/AndroidStudioProjects/DTUADMIN/app/src/main/res/drawable/ic_homeicon.xml" value="0.1375" />
+        <entry key="..\:/Users/singh/AndroidStudioProjects/DTUADMIN/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2115" />
+        <entry key="..\:/Users/singh/AndroidStudioProjects/DTUADMIN/app/src/main/res/drawable/progress_back.xml" value="0.139" />
+        <entry key="..\:/Users/singh/AndroidStudioProjects/DTUADMIN/app/src/main/res/drawable/whitebackground.xml" value="0.103" />
+        <entry key="..\:/Users/singh/AndroidStudioProjects/DTUADMIN/app/src/main/res/layout-w1240dp/activity_login2.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/singh/AndroidStudioProjects/DTUADMIN/app/src/main/res/layout/activity_addadmin.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/singh/AndroidStudioProjects/DTUADMIN/app/src/main/res/layout/activity_addteachers.xml" value="0.2" />
+        <entry key="..\:/Users/singh/AndroidStudioProjects/DTUADMIN/app/src/main/res/layout/activity_admin.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/singh/AndroidStudioProjects/DTUADMIN/app/src/main/res/layout/activity_adminlogin.xml" value="0.15348439504061565" />
+        <entry key="..\:/Users/singh/AndroidStudioProjects/DTUADMIN/app/src/main/res/layout/activity_deletenoticeactivity.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/singh/AndroidStudioProjects/DTUADMIN/app/src/main/res/layout/activity_ebook.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/singh/AndroidStudioProjects/DTUADMIN/app/src/main/res/layout/activity_home.xml" value="0.22" />
+        <entry key="..\:/Users/singh/AndroidStudioProjects/DTUADMIN/app/src/main/res/layout/activity_intro.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/singh/AndroidStudioProjects/DTUADMIN/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/singh/AndroidStudioProjects/DTUADMIN/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/singh/AndroidStudioProjects/DTUADMIN/app/src/main/res/layout/activity_main2.xml" value="0.15604959384352288" />
+        <entry key="..\:/Users/singh/AndroidStudioProjects/DTUADMIN/app/src/main/res/layout/activity_main3.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/singh/AndroidStudioProjects/DTUADMIN/app/src/main/res/layout/activity_signup.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/singh/AndroidStudioProjects/DTUADMIN/app/src/main/res/layout/activity_signup2.xml" value="0.2894399315946986" />
+        <entry key="..\:/Users/singh/AndroidStudioProjects/DTUADMIN/app/src/main/res/layout/activity_splashscreen.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/singh/AndroidStudioProjects/DTUADMIN/app/src/main/res/layout/activity_update.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/singh/AndroidStudioProjects/DTUADMIN/app/src/main/res/layout/activity_update_teacher.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/singh/AndroidStudioProjects/DTUADMIN/app/src/main/res/layout/activity_updatefaculty.xml" value="0.25" />
+        <entry key="..\:/Users/singh/AndroidStudioProjects/DTUADMIN/app/src/main/res/layout/activity_upload_notice.xml" value="0.15604959384352288" />
+        <entry key="..\:/Users/singh/AndroidStudioProjects/DTUADMIN/app/src/main/res/layout/activity_upload_notice2.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/singh/AndroidStudioProjects/DTUADMIN/app/src/main/res/layout/activity_uploadimage.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/singh/AndroidStudioProjects/DTUADMIN/app/src/main/res/layout/activity_uploadpdf.xml" value="0.2" />
+        <entry key="..\:/Users/singh/AndroidStudioProjects/DTUADMIN/app/src/main/res/layout/activity_user.xml" value="0.22" />
+        <entry key="..\:/Users/singh/AndroidStudioProjects/DTUADMIN/app/src/main/res/layout/activity_userlogin.xml" value="0.11855670103092783" />
+        <entry key="..\:/Users/singh/AndroidStudioProjects/DTUADMIN/app/src/main/res/layout/content_main.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/singh/AndroidStudioProjects/DTUADMIN/app/src/main/res/layout/cvxcv.xml" value="0.1" />
+        <entry key="..\:/Users/singh/AndroidStudioProjects/DTUADMIN/app/src/main/res/layout/drawer_header.xml" value="0.16673792218896966" />
+        <entry key="..\:/Users/singh/AndroidStudioProjects/DTUADMIN/app/src/main/res/layout/ebookitemlayout.xml" value="0.22" />
+        <entry key="..\:/Users/singh/AndroidStudioProjects/DTUADMIN/app/src/main/res/layout/faculty_item_layout.xml" value="0.25" />
+        <entry key="..\:/Users/singh/AndroidStudioProjects/DTUADMIN/app/src/main/res/layout/fragment_about.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/singh/AndroidStudioProjects/DTUADMIN/app/src/main/res/layout/fragment_faculty.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/singh/AndroidStudioProjects/DTUADMIN/app/src/main/res/layout/fragment_first.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/singh/AndroidStudioProjects/DTUADMIN/app/src/main/res/layout/fragment_gallery.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/singh/AndroidStudioProjects/DTUADMIN/app/src/main/res/layout/fragment_home.xml" value="0.1696969696969697" />
+        <entry key="..\:/Users/singh/AndroidStudioProjects/DTUADMIN/app/src/main/res/layout/fragment_notice.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/singh/AndroidStudioProjects/DTUADMIN/app/src/main/res/layout/newsfeed_item_layout.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/singh/AndroidStudioProjects/DTUADMIN/app/src/main/res/layout/no_data_found.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/singh/AndroidStudioProjects/DTUADMIN/app/src/main/res/layout/slidercustomlayout.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/singh/AndroidStudioProjects/DTUADMIN/app/src/main/res/layout/upload.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/singh/AndroidStudioProjects/DTUADMIN/app/src/main/res/layout/uploadactivity.xml" value="0.25" />
+        <entry key="..\:/Users/singh/AndroidStudioProjects/DTUADMIN/app/src/main/res/layout/userfaculty_item_layout.xml" value="0.2" />
+        <entry key="..\:/Users/singh/AndroidStudioProjects/DTUADMIN/app/src/main/res/layout/usernewsfeed_item_layout.xml" value="0.18" />
+        <entry key="..\:/Users/singh/AndroidStudioProjects/DTUADMIN/app/src/main/res/menu/bottom_nav.xml" value="0.25" />
+        <entry key="..\:/Users/singh/AndroidStudioProjects/DTUADMIN/app/src/main/res/menu/navigation_drawer.xml" value="0.1675929884566054" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

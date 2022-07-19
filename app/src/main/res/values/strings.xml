@@ -1,0 +1,34 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">DTU INFORMATION PORTAL</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="no_data_found">NO DATA FOUND</string>
+    <string name="kapl_kumar_yadav">Kapil Kumar Yadav</string>
+    <string name="bcbold" tools:ignore="ReferenceType">@font/bcbold</string>
+    <string name="bcregular" tools:ignore="ReferenceType">@font/bcregular</string>
+    <string name="bclight" tools:ignore="ReferenceType">@font/bclight</string>
+
+    <string name="start">Start</string>
+    <string name="close">Close</string>
+
+    <string name="Description">"75 years of Tradition of excellence in Engineering and Technology Education, Research and Innovations" Delhi College of Engineering, (initially established with the name – Delhi Polytechnic) came into existence in the year 1941 to cater the needs of Indian industries for trained technical manpower with practical experience and sound theoretical knowledge. The institution was set up at historic Kashmere Gate campus as a follow up of the Wood and Abott Committee of 1938. It comprised of a multi disciplinary and multi level institution offering wide ranging programmes in engineering, technology, arts and sculpture, architecture, pharmacy and commerce. The national diploma awarded by the institution was recognized as equivalent to degree level for the purposes of employment. In 1952 the college was affiliated with University of Delhi and started formal Degree level Programmes. The department of Architecture later became the School of Planning and Architecture, now a Deemed University and Institution of National importance. The department of Arts and Sculpture became College of Arts and the departments of Chemical Technology and Textile Technology were shifted out en-block to mark beginning of the IIT Delhi at its new campus at Hauz Khas. The department of commerce was later abolished and the faculty of management studies of the University of Delhi was established by Prof. A Das Gupta, of DCE. Delhi College of Engineering is thus the mother institution of a number of national projects including IITD, SPA, College of Arts and even the famous FMS</string>
+    <string name="Description2">Till 1962, the college was under the direct control of Ministry of Education, Government of India. In 1963, the administration of the college was handed over to Delhi Administration. Delhi College of Engineering was under the administrative control of Department of Technical Education and Training, Govt. of NCT of Delhi. For academic purposes, the college was affiliated to University of Delhi since 1952. From July 2009, the DCE has become Delhi Technological University vide Delhi act 6 of 2009.
+The erstwhile DCE has functioned from its historic Kashmere Gate Campus for almost 55 years and has shifted in 1996 to its lush green sprawling campus of 164 Acres at Bawana Road, adjoining Sector-17, Rohini, Delhi-42. Its shifting to new campus has added the dimension of research and caused innovations in plenty, which has received high national and international acclaim. As a Delhi Technological University it has the desired autonomy to excel and shape itself as a world class Technological University.</string>
+</resources>

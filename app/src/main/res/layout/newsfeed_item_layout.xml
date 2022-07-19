@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:theme="@style/Theme.MaterialComponents.DayNight"
+    android:layout_height="wrap_content">
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="16dp"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:layout_height="wrap_content">
+
+            <de.hdodenhof.circleimageview.CircleImageView
+
+                android:layout_width="36dp"
+                android:layout_height="36dp"
+                android:src="@drawable/img">
+
+            </de.hdodenhof.circleimageview.CircleImageView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="DTU Admin College"
+                android:layout_marginLeft="16dp"
+                android:textSize="18dp"
+                android:textColor="@color/textcolor"/>
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/Deletenotice"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="-90dp"
+                android:text="Delete" />
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/Deletenoticetitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Hey, My Name is Kapil"
+            android:textSize="17sp"
+            android:textColor="@color/textcolor"/>
+        <ImageView
+            android:id="@+id/deletenoticeimage"
+            android:layout_width="match_parent"
+            android:layout_height="500dp"
+            android:scaleType="fitXY"/>
+
+
+
+
+        
+    </LinearLayout>
+
+</com.google.android.material.card.MaterialCardView>

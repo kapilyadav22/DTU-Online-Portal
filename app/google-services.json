@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "401836619766",
+    "project_id": "dtu-admin-981bd",
+    "storage_bucket": "dtu-admin-981bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401836619766:android:d71eb5dc25bb11d96eb9d7",
+        "android_client_info": {
+          "package_name": "com.example.dtuadminkapil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "401836619766-0c50msc5gvqegv0ev37l76esvkn30afs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeLNoz_HhG2hR4-6dkUWViw9Bn9lx0fnw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "401836619766-0c50msc5gvqegv0ev37l76esvkn30afs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
